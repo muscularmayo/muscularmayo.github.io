@@ -2,7 +2,7 @@ import './project.css';
 
 function Project(props) {
   return (
-    <div>
+    <div className="project">
       <a href={props.link}>
         <h4>
           {props.title}
