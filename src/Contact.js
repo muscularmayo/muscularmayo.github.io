@@ -1,5 +1,4 @@
 import './contact.css';
-import linkedinIcon from './linkedInIcon.png'
 
 function Contact() {
   return (
