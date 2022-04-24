@@ -7,7 +7,6 @@ function Footer() {
       <a href="https://github.com/muscularmayo">
         <img src={GithubIcon} alt="github" />
       </a>
-
     </div>
   );
 }

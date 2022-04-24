@@ -1,7 +1,11 @@
 #projects {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   color: rgb(251, 251, 40);
-  min-height: 100vh;
+  background-color: purple;
+  min-height: 110vh;
+  align-items: center;
+  padding-bottom: 10%;
+  padding-top: 2%;
 }

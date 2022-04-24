@@ -3,9 +3,9 @@ import './about.css';
 function About() {
   return (
     <div id="about">
-      <h3>About</h3>
+      <h1>About</h1>
       <div>
-        Chris is an aspiring Front End Software Engineer in Los Angeles, CA.
+        An aspiring Front End Software Engineer in Los Angeles, CA.
       </div>
       <div>
         Javascript | HTML5 | CSS3 | Bash | Git
