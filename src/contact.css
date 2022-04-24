@@ -1,0 +1,7 @@
+#contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #c90bdb;
+  min-height: 100vh;
+}

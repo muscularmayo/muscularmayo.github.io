@@ -4,7 +4,7 @@ import Egghead from './egg.svg'
 function Home() {
   return (
     <div id="home">
-      <div>Chris Risden</div>
+      <h1>Chris Risden</h1>
       <img src={Egghead} alt='an icon for myself :)'/>
     </div>
   );

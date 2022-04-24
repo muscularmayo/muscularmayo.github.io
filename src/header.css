@@ -1,0 +1,8 @@
+.nav {
+  list-style-type: none;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  position: fixed;
+
+}
