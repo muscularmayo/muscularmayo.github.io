@@ -4,6 +4,7 @@ import About from './About.js';
 import Contact from './Contact.js'
 import Projects from './Projects.js'
 import Header from './Header.js'
+import Footer from './Footer.js'
 
 const RouteSwitch = () => {
   return (
@@ -13,6 +14,7 @@ const RouteSwitch = () => {
       <About />
       <Projects />
       <Contact />
+      <Footer />
       <Routes>
         {/* <Route path="/" element={<Home />} /> */}
         <Route path="/#about" element={<About />} />

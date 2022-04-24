@@ -1,11 +1,12 @@
-.nav {
-  list-style-type: none;
-  width: 100%;
-  display: flex;
-  justify-content: space-evenly;
-  position: fixed;
-  color: white;
+#footer {
+  margin-bottom: 20px;
+  justify-content: center;
 
+}
+
+#footer img {
+  height: 50px;
+  width: 55px;
 }
 
 a:link {

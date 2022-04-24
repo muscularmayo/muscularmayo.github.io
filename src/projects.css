@@ -1,0 +1,7 @@
+#projects {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgb(251, 251, 40);
+  min-height: 100vh;
+}
