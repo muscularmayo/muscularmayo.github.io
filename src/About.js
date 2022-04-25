@@ -19,6 +19,9 @@ function About() {
         Javascript | HTML5 | CSS3 | Bash | Git
       </div>
       <div className="technology">
+        MySQL | PostgreSQL | MongoDB
+      </div>
+      <div className="technology">
         React | Redux | Node | Jquery
       </div>
       <div className="technology">
@@ -27,9 +30,7 @@ function About() {
       <div className="technology">
         Jest | Mocha | Chai
       </div>
-      <div className="technology">
-        MySQL | PostgreSQL | MongoDB
-      </div>
+
     </div>
   );
 }
