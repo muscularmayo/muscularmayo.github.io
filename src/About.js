@@ -4,22 +4,17 @@ function About() {
   return (
     <div id="about">
       <h1>About</h1>
-      <div className="project">
-        I am Chris Risden, an aspiring Front End Software Engineer in Los Angeles, CA.
+      <div >
+        An aspiring Front End Software Engineer in Los Angeles, CA.
         <br/>
         <br/>
-        I come to coding through an unorthodox path in the entertainment industry, but, for me, it was love at first debug. This strange
-         journey through a high-powered environment lends me certain soft skills:
+        Strong Communication Skills | Passionate About Coding
         <br/>
+        Curious | Proactive | Detail-Oriented | Organized
         <br/>
-        I am a motivated self-starter who is receptive to criticism, constantly learning, proactive and cool under constant pressure and deadlines.
-        <br/>
-        <br/>
-        I have both excellent written and verbal communication skills and a keen eye for detail.
-        <br/>
-        <br/>
-        Most importantly, I love coding, the journey of both and creating and debugging, the satisfaction and the constant quest to learn.
+        Motivated Self-Starter | Receptive to Criticism
       </div>
+      <br/>
       <div className="technology">
         Javascript | HTML5 | CSS3 | Bash | Git
       </div>
@@ -27,7 +22,7 @@ function About() {
         React | Redux | Node | Jquery
       </div>
       <div className="technology">
-        Styled Components
+        Styled Components | SASS
       </div>
       <div className="technology">
         Jest | Mocha | Chai
