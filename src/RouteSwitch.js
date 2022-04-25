@@ -20,7 +20,7 @@ const RouteSwitch = () => {
       title: 'Equity Sticks',
       repo: 'https://github.com/muscularmayo/equity-sticks',
       link: 'https://muscularmayo.github.io/equity-sticks/',
-      info: `First public release. A personal project I made using React and local storage as a makeshift database to simplify
+      info: `First publicly released website that was used. A personal project I made using React and local storage as a makeshift database to simplify
       my work in the classroom. Utilized responsive design and an adherence to clean coding techniques to create an app that many people use.`
     },
     {

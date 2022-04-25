@@ -3,7 +3,11 @@
   flex-direction: column;
   justify-content: center;
   color: #00ff03;
-  background-color: teal;
-  min-height: 110vh;
+  background-color: rgba(0, 128, 128, 0.641);
+  min-height: 100vh;
   text-align: center;
+}
+
+.technology {
+  font-size-adjust: 120%;
 }
