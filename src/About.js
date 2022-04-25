@@ -5,7 +5,7 @@ function About() {
     <div id="about">
       <h1>About</h1>
       <div >
-        An aspiring Front End Software Engineer in Los Angeles, CA.
+        An aspiring Full Stack Software Engineer in Los Angeles, CA.
         <br/>
         <br/>
         Strong Communication Skills | Passionate About Coding
