@@ -4,7 +4,7 @@ import GithubIcon from './githubIcon.png'
 function Footer() {
   return (
     <div id="footer">
-      <a href="https://github.com/muscularmayo">
+      <a target="_blank" rel="noreferrer" href="https://github.com/muscularmayo">
         <img src={GithubIcon} alt="github" />
       </a>
     </div>

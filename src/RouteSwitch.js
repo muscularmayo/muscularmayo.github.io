@@ -28,7 +28,7 @@ const RouteSwitch = () => {
       repo: 'https://github.com/muscularmayo/cv-generator',
       link: 'https://muscularmayo.github.io/cv-generator/',
       info: `My introduction to React, made a user responsive page with synchronous page updates as they enter information. Also
-      started my CSS skills development greatly.`
+      kick-started my CSS skills development.`
     }
   ],
     "Vanilla JS" : [{
