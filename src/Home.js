@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './home.css';
 import Egghead from './egg.svg'
-import EggheadHover from './iconHover.png'
+import EggheadHover from './iconHover.svg'
 
 function Home() {
   const [ image, setImage ] = useState(Egghead)
